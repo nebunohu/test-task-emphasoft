@@ -1,1 +1,1 @@
-export const API_URL = 'http://emphasoft-test-assignment.herokuapp.com';
+export const API_URL = 'https://emphasoft-test-assignment.herokuapp.com';
