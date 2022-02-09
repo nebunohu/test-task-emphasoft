@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 50px;
+}
+
+.label {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.loginButton {
+  width: max-content;
+  align-self: flex-end;
+}
